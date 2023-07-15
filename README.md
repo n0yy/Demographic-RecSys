@@ -10,7 +10,7 @@ Projek ini adalah Sistem Rekomendasi film berdasarkan data IMDB
 git clone https://github.com/n0yy/Demographic-RecSys.git
 ```
 
-- Change Directory
+- Change Directory (on Windows)
 
 ```bash
 cd "Demographic RecSys"
